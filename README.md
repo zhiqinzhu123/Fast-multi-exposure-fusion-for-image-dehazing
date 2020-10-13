@@ -2,6 +2,7 @@
 1. Open main.m with matlab.
 2. Put your source hazy images in "images"
 3. Run.
+
 Processing result save in the folder "results"
 
 
