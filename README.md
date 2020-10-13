@@ -2,7 +2,7 @@
 1. Open main.m with matlab.
 2. Put your source hazy images in "images"
 3. Run.
-4. Processing result will be in the folder "results"
+Processing result save in the folder "results"
 
 
 Source code of "A Novel Fast Single Image Dehazing Algorithm based on Artificial Multi-exposure Image Fusion"
